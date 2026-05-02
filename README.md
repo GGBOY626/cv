@@ -49,14 +49,3 @@ This site is built on top of [Brittany Chiang's v4 portfolio template](https://g
 npm run build
 npm run serve
 ```
-
-## 🎨 Color Reference
-
-| Color          | Hex                                                                  |
-| -------------- | -------------------------------------------------------------------- |
-| Background     | ![#f8fafc](https://via.placeholder.com/10/f8fafc?text=+) `#f8fafc` |
-| Surface        | ![#ffffff](https://via.placeholder.com/10/ffffff?text=+) `#ffffff`  |
-| Border         | ![#e2e8f0](https://via.placeholder.com/10/e2e8f0?text=+) `#e2e8f0` |
-| Body Text      | ![#64748b](https://via.placeholder.com/10/64748b?text=+) `#64748b` |
-| Heading Text   | ![#1e293b](https://via.placeholder.com/10/1e293b?text=+) `#1e293b` |
-| Accent (Blue)  | ![#2563eb](https://via.placeholder.com/10/2563eb?text=+) `#2563eb` |
