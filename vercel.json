@@ -1,0 +1,4 @@
+{
+  "framework": "gatsby",
+  "buildCommand": "NODE_OPTIONS=--openssl-legacy-provider gatsby build"
+}
