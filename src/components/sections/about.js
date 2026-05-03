@@ -127,6 +127,7 @@ const About = () => {
 
   const skills = [
     'Java 8 / Spring Boot',
+    'Python / FastAPI (or Django)',
     'Spring Security (JWT) / RBAC',
     'Kafka & Event-Driven Architecture',
     'MySQL 8 / Redis / Caffeine',
@@ -147,11 +148,11 @@ const About = () => {
             </p>
 
             <p>
-              Fast-forward to today, I’ve spent 3+ years building production Java services at China
+              Fast-forward to today, I've spent 3+ years building production Java services at China
               Mobile (Hangzhou), where I worked on telecom-scale platforms involving Kafka
-              pipelines, IoT gateway integration, and cross-region routing. I’m now based in New
-              Zealand pursuing a Master of Software Development at Yoobee College, and I’m
-              available for full-time work starting 30 March 2026.
+              pipelines, IoT gateway integration, and cross-region routing. I'm now based in New
+              Zealand pursuing a Master of Software Development at Yoobee College, and I'm currently
+              available for freelance backend work on Upwork — Python or Java.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

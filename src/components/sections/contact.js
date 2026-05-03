@@ -60,10 +60,9 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I’m currently looking for backend or Java engineer opportunities (junior to intermediate
-        level) in New Zealand, starting full-time from 30 March 2026. Whether you have a role to
-        discuss, a question about my work, or just want to say hi — my inbox is always open. I’ll
-        do my best to get back to you!
+        I'm currently looking for freelance backend opportunities on Upwork — Python or Java.
+        Whether you have a project to discuss, a question about my work, or just want to say hi — my
+        inbox is always open. I'll do my best to get back to you!
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
